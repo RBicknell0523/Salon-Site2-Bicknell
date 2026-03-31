@@ -1,8 +1,8 @@
-
-
-
-
-
+// =========================
+// File: js/main.js
+// Vintage Barbershop Project
+// =========================
+ 
 // ----- DOM Elements -----
 const yearEl = document.getElementById("year");
  
